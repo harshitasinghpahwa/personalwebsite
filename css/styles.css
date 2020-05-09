@@ -1,0 +1,104 @@
+#example2{
+ color: rgba(0,0,0,0);
+-webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+  padding-right: 8%;
+  font-size: 100px;
+  margin-bottom: 0;
+  height: 7px;
+}
+
+.h:hover{
+  color: #dbafbd;
+}
+
+
+#harshita_navbar{
+  padding: 5%;
+  background-color: #fff ;
+  font-family: 'Inconsolata', monospace;
+}
+
+#container_about{
+  width:66%;
+  background-color: white;
+  position: absolute;
+  z-index:0;
+  margin-top: 250px;
+  padding: 5%;
+   color: white;
+  -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 58px;
+}
+.backimage{
+  position: absolute;
+  z-index: -1;
+  width:87%;
+  padding-top: 6%;
+  margin-left: 11%;
+
+}
+
+.back2{
+  margin-top: 370px;
+}
+.about_text{
+  padding: 5%;
+  font-family: 'Inconsolata', monospace;
+  color: black;
+  font-size: 20px;
+  -webkit-text-stroke-width: 0;
+}
+
+#Skills{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+   -webkit-text-stroke-width: 2px;
+     -webkit-text-stroke-color: black;
+    font-size:58px;
+    margin-top: 800px;
+    background-color: white;
+    height: 170px;
+}
+
+#Skills:hover{
+  color: white;
+}
+#skill_content{
+  background-color: white;
+  position:absolute;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+
+}
+
+.button_text{
+  font-family: 'Inconsolata', monospace;
+  font-size: 15px;
+}
+
+#button-harshita{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  width:64%;
+  height: 65px;
+}
+
+.back3{
+  width:100%;
+  margin-left: 0;
+  margin-top: 400px;
+  margin-right: 9000px;
+}
+.whitespace{
+  background-color: white;
+  height: 20px;
+  border-bottom: 2px;
+  border-color: black;
+  border: solid;
+}
